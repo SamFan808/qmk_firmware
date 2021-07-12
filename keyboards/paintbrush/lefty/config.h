@@ -1,3 +1,7 @@
 
 #define DIRECT_PINS { { F7, F6, F5, F4 }, { B6, B2, B3, B1 } }
 #define UNUSED_PINS
+#define COMBO_TERM 200
+#define TAPPING_TERM 200
+#define PERMISSIVE_HOLD
+#define IGNORE_MOD_TAP_INTERRUPT
