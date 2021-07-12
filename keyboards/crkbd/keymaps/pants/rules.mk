@@ -1,0 +1,9 @@
+BOOTLOADER			= atmel-dfu	 # Atmel DFU    
+MOUSEKEY_ENABLE     = no    # Mouse keys
+RGBLIGHT_ENABLE     = no    # Enable WS2812 RGB underlight.
+RGB_MATRIX_ENABLE	= yes	# Enable RGB Matrix
+VIA_ENABLE          = no    # Enable VIA
+OLED_DRIVER_ENABLE  = yes
+LTO_ENABLE          = yes
+EXTRAKEY_ENABLE 	= yes   # Audio control and System control
+NKRO_ENABLE 		= yes
